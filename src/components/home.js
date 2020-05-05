@@ -56,10 +56,10 @@ class Home extends Component {
                     <br /><br />
                     <button
                         onClick={() => this.goToNextSlide()}
-                        className='btn1'><i class="fas fa-arrow-right"></i></button>
+                        className='btn1'><i class="fa fa-arrow-right"></i></button>
                     <button
                         onClick={() => this.goToPrevSlide()}
-                        className='btn1'><i class="fas fa-arrow-left"></i></button>
+                        className='btn1'><i class="fa fa-arrow-left"></i></button>
                     <br /><br /><br /><br />
                     <section>
                         <div className='wave'>

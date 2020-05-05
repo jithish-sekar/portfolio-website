@@ -1,6 +1,5 @@
 import React from 'react';
 import './App.css';
-import 'bootstrap/dist/css/bootstrap.min.css';
 import { withRouter } from 'react-router-dom';
 import HeaderComponent from './components/header';
 import FooterPage from './components/footer';
