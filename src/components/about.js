@@ -11,7 +11,7 @@ class About extends Component {
                         <br /><br/>
                         <img
                             className='robo'
-                            src="robo.png" />
+                            src="newrobo.png" />
                         <div className='strategies'>
                             <div className="p-30px">
                                 <span className='span1'>
