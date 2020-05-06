@@ -556,3 +556,7 @@ margin-bottom: -10px;
   transform: translateX(-50%);
   z-index: 1;
 }
+.hdr{
+  display: flex;
+  justify-content: center;
+}
