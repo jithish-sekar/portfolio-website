@@ -16,6 +16,7 @@ class Work extends Component {
                     <h1 className='medi'>medikare.org.in</h1>
                     <p className='workp'>(Brand and information site)</p>
                     < center> <img className='workimg' src='medikare.jpg' /></center>
+                    <br/><br/>
                     <h1 className='medi'>destinys.org.in</h1>
                     <p className='workp'>(Brand and information site)</p>
                     < center> <img className='workimg' src='de.jpg'/></center>

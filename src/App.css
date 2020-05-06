@@ -92,7 +92,8 @@
    
    text-align: center;
    margin-top: 1.5em;
-   font-family: freightsans_regular,helvetica neue,helvetica,arial,sans-serif;
+   font-family: 'Raleway', sans-serif;
+
    font-weight: 300;
    text-transform: none;
    /* letter-spacing: 0; */
@@ -106,7 +107,6 @@
 .homeh2{
    text-align: center;
    margin-top: 1.5em;
-   font-family: freightsans_regular,helvetica neue,helvetica,arial,sans-serif;
    font-weight: 300;
    width: 90%;
    /* line-height: 32px; */
