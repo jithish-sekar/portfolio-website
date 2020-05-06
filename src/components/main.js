@@ -8,6 +8,7 @@ import {
     CSSTransition,
     TransitionGroup,
 } from 'react-transition-group';
+import Contactus from './contactus';
 
 const Main = () => (
     <Route render={({location}) => (
@@ -23,6 +24,7 @@ const Main = () => (
                     <Route path='/work' component={Work} />
                     <Route path='/who' component={Who} />
                     <Route path='/about' component={About} />
+                    <Route path='/contactus' component={Contactus}/>
                 </Switch>
             </CSSTransition>
         </TransitionGroup>

@@ -33,8 +33,8 @@ class Home extends Component {
         }
 
     }
-    about() {
-        this.props.history.push('/about')
+    contactus() {
+        this.props.history.push('/contactus')
     }
 
     render() {
@@ -65,7 +65,7 @@ class Home extends Component {
                         <div className='wave'>
                             <h2 className='exceptionalquality'>EXCEPTIONAL QUALITY</h2><br/>
                             <button
-                                onClick={() => this.about()}
+                                onClick={() => this.contactus()}
                                 className='learnbtn'>Contact Us
                         </button>
                         </div>
