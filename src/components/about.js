@@ -61,7 +61,7 @@ class About extends Component {
                     <br/><br/>
                         <section>
                             <div className='wave'>
-                                <h2 className='exceptionalquality'>ECXEPTIONAL QUALITY</h2><br/>
+                                <h2 className='exceptionalquality'>GET IN TOUCH</h2><br/>
                                 <button
                                     onClick={() => this.about()}
                                     className='learnbtn'>Contact US

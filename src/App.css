@@ -582,7 +582,7 @@ transform: scale(1.1);
   font-size: 22px;
   letter-spacing: 1px;
   color: #ffffff;
-  margin: 10px;
+  margin-left: 40%;
 }
 @media(max-width:500px){
   .nam1{
@@ -590,7 +590,21 @@ transform: scale(1.1);
 }
 }
 .nam2{
-  font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
+    color:#96ffca;
+    margin-left:40% ;
+}
+@media(max-width:500px){
+.nam2{
+   font-family: 'Josefin Sans', sans-serif;
    color:#96ffca;
    margin-left: 10px;
 }
+}
+.wholink{
+  margin-left: 40%;
+}
+@media(max-width:500px){
+  .wholink{
+ margin-left: 5px; 
+}}
