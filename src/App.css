@@ -373,6 +373,7 @@ margin-bottom: -10px;
   font-size: 17px;
   letter-spacing: 1px;
   font-weight: 250;
+  padding: 10px;
 }
 .dclog{
   height: 290px;
@@ -473,4 +474,55 @@ margin-bottom: -10px;
     height: 360px;
     width: 300px; 
   }
+}
+.who{
+  background-color: #252525;
+}
+.whoh1{
+  margin: 0;
+  color: #ffffff;
+  font-family: 'Josefin Sans', sans-serif;
+  text-align: center;
+  font-size: 6rem;
+  animation: text 3s 1;
+  text-align:center
+}
+@media(max-width:500px){
+  .whoh1{
+    font-size: 5rem;
+  }
+}
+.think{
+  font-family: 'Josefin Sans', sans-serif;
+  text-align: center;
+  font-size: 3rem;
+  color:#ffffff;
+  /* color: #96ffca; */
+
+  text-align: center;
+  /* animation: text 3s 1; */
+
+}
+@media(max-width:500px){
+  .think{
+  font-family: 'Josefin Sans', sans-serif;
+  text-align: center;
+  font-size: 2.7rem;
+  color: #ffffff;;
+  }
+}
+.whohh{
+  font-family: 'Josefin Sans', sans-serif;
+  color: #96ffca;
+  letter-spacing: 1px;
+  font-size: 1.5rem;
+  padding: 0.75em; 
+  margin: 0;
+
+}
+@media(max-width:500px){
+.whohh{
+  font-size: 1.3rem;
+  padding: 0.75em; 
+}
 }

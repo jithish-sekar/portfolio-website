@@ -15,7 +15,10 @@ class Work extends Component {
                     <center><h1 className='medikare1'>Some of Studio Bulls latest projects</h1></center>
                     <h1 className='medi'>medikare.org.in</h1>
                     <p className='workp'>(Brand and information site)</p>
-                    < center> <img className='workimg' src='medikare.jpg'/></center>
+                    < center> <img className='workimg' src='medikare.jpg' /></center>
+                    <h1 className='medi'>destinys.org.in</h1>
+                    <p className='workp'>(Brand and information site)</p>
+                    < center> <img className='workimg' src='de.jpg'/></center>
                 </div>
             </div>
         )
