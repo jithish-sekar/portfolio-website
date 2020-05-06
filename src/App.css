@@ -51,10 +51,19 @@
   padding: 1em;
   color: aliceblue;
   font-family: 'Exo 2', sans-serif;
+  font-size: 13px;
 }
 .link{
   color: aliceblue;
   padding: .5em;
+}
+.copyryt{
+  color: white;
+  font-size: 13px;
+}
+.copyryt a{
+  color:white;
+  text-decoration: none;
 }
 .home{
     background-image: url(https://studioschurk.nl/wp-content/uploads/2019/04/achtergrond-StudioSchurk.jpg);
@@ -440,6 +449,28 @@ margin-bottom: -10px;
     width:220px;
   }
 }
-.copyryt{
-
+.medi{
+  text-align: center;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 25px;
+  letter-spacing: 1px;
+  color: black;
+}
+.workp{
+  font-family: 'Josefin Sans', sans-serif;
+  color: white;
+  letter-spacing: 1px;
+  font-size: 15px;
+  padding: 0.75em; 
+  text-align: center;
+}
+.workimg{
+  height: 600px;
+  width: 500px;
+}
+@media(max-width:500px){
+  .workimg{
+    height: 360px;
+    width: 300px; 
+  }
 }
