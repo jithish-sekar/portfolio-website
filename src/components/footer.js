@@ -19,11 +19,11 @@ class Footerpage extends Component {
                
                     <br /> */}
                     <div className='linkfb'>
-                        <a href='' className='link'><i class="fab fa-facebook-square"></i></a>
-                        <a href='' className='link'><i class="fab fa-linkedin-square"></i></a>
-                        <a href='' className='link'><i class="fab fa-github-square"></i></a>
-                        <a href='' className='link'><i class="fab fa-behance-square"></i></a>
-                        <a href='' className='link'><i class="fab fa-twittere-square"></i></a>
+                        <a href='' className='link'><i class="fa fa-facebook-square"></i></a>
+                        <a href='' className='link'><i class="fa fa-linkedin-square"></i></a>
+                        <a href='' className='link'><i class="fa fa-github-square"></i></a>
+                        <a href='' className='link'><i class="fa fa-behance-square"></i></a>
+                        <a href='' className='link'><i class="fa fa-twittere-square"></i></a>
                     </div>
                     <span
                         className='ftrp'>Home</span>
