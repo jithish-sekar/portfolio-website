@@ -132,7 +132,7 @@
  }
 
  .image-holder{
- height: 130px;
+ /* height: 130px; */
  width: 140px;
  background-color:none;
  border-radius: 7px;
@@ -439,4 +439,7 @@ margin-bottom: -10px;
   .robo{
     width:220px;
   }
+}
+.copyryt{
+
 }

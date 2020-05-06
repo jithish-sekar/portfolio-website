@@ -63,7 +63,7 @@ class Home extends Component {
                     <br /><br /><br /><br />
                     <section>
                         <div className='wave'>
-                            <h2 className='exceptionalquality'>ECXEPTIONAL QUALITY</h2><br/>
+                            <h2 className='exceptionalquality'>EXCEPTIONAL QUALITY</h2><br/>
                             <button
                                 onClick={() => this.about()}
                                 className='learnbtn'>Contact Us
