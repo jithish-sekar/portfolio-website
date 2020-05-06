@@ -10,7 +10,10 @@ class Who extends Component {
                             className='robo'
                             src='robo.png' />
                     <h1 className='whohh'>We're developers, designers, strategists, and awkward dancers.</h1>
-
+                    <div className='meet'>
+                        <p className='team'>Meet the team!</p>
+                     </div>
+                    <h1 className='strapline'></h1>
                 </center>
             </div>
 
