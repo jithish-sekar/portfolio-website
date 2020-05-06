@@ -476,7 +476,7 @@ margin-bottom: -10px;
   }
 }
 .who{
-  background-color: #252525;
+  background-color: #1d1c1c;
 }
 .whoh1{
   margin: 0;
@@ -559,4 +559,38 @@ margin-bottom: -10px;
 .hdr{
   display: flex;
   justify-content: center;
+}
+.pic{
+  height: 400px;
+  width: 400px;
+  filter: grayscale(10%);
+  transition: .8s;
+}
+@media(max-width:500px){
+  .pic{
+    height: 250px;
+    width: 250px;
+  }
+}
+.pic:hover{
+filter: grayscale(0%);
+transform: scale(1.1);
+}
+.nam1{
+  /* font-family: 'Josefin Sans', sans-serif; */
+  font-family: 'Raleway', sans-serif;
+  font-size: 22px;
+  letter-spacing: 1px;
+  color: #ffffff;
+  margin: 10px;
+}
+@media(max-width:500px){
+  .nam1{
+  margin-left: 10px;
+}
+}
+.nam2{
+  font-family: 'Josefin Sans', sans-serif;
+   color:#96ffca;
+   margin-left: 10px;
 }
