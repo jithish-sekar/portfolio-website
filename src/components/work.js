@@ -25,24 +25,24 @@ class Work extends Component {
                     < center> <img className='workimg' src='de.jpg' /></center>
                     <br /><br />
                     <h1 className='medi'>Chill Pill</h1>
-                    <p className='workp'>(Brand and design)</p>
+                    <p className='workp'>(Illustrator and design)</p>
                     < center> <img className='workimg' src='pill1.jpg' /></center>
                     <br /><br />
                     <h1 className='medi'>xxxtentacion</h1>
-                    <p className='workp'>(Brand and design)</p>
+                    <p className='workp'>(Illustrator  and design)</p>
                     < center> <img className='workimg' src='xxx2.jpg' /></center>
                     <br /><br />
                     <h1 className='medi'>Nairobi</h1>
-                    <p className='workp'>(Brand and design)</p>
+                    <p className='workp'>(Illustrator  and design)</p>
                     < center> <img className='workimg' src='nairobi23.jpg' /></center>
                     <br /><br />
                     <h1 className='medi'>Iron man & Thanos</h1>
-                    <p className='workp'>(Brand and design)</p>
+                    <p className='workp'>(Illustrator  and design)</p>
                     < center> <img className='workimg1' src='thanos.jpg' /></center>
                     <br /><br />
                     
                     <h1 className='medi'>Ford vs Ferrari</h1>
-                    <p className='workp'>(Brand and design)</p>
+                    <p className='workp'>(Illustrator and design)</p>
                     < center> <img className='workimg1' src='fvf.jpg' /></center>
                     <br /><br />
                     <section>

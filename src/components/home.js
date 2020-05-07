@@ -6,7 +6,7 @@ class Home extends Component {
             images: [
                 { name: "destinys.org.in", url: "de.jpg" },
                 { name: "medikare.org.in", url: "medikare.jpg" },
-                { name: "destinys", url: "" },
+                { name: "pills", url: "pill1.jpg" },
             ],
             currenImagePosition: 0
         }
