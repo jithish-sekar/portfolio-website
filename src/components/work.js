@@ -36,7 +36,7 @@ class Work extends Component {
                     <p className='workp'>(Brand and design)</p>
                     < center> <img className='workimg' src='nairobi23.jpg' /></center>
                     <br /><br />
-                    <h1 className='medi'>Thanos</h1>
+                    <h1 className='medi'>Iron man & Thanos</h1>
                     <p className='workp'>(Brand and design)</p>
                     < center> <img className='workimg1' src='thanos.jpg' /></center>
                     <br /><br />
