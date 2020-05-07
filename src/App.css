@@ -194,7 +194,7 @@ animation: animate 10s linear infinite;
  .exceptionalquality{
   text-align: center;
   font-family: 'Cormorant Garamond', serif;
-  font-size: 22px;
+  font-size: 23px;
   font-weight: 800px;
 }
 @media(max-width: 500px){
@@ -380,7 +380,7 @@ margin-bottom: -10px;
 }
 .dclog{
   height: 290px;
-  width: 335px;
+  width: 320px;
 }
 .designcode{
   background-color: #e7eeed;
@@ -403,6 +403,7 @@ margin-bottom: -10px;
 @media(max-width:500px){
   .dc{
   margin-right: 0px;
+  padding: 1em;
   }
 }
 .dc1{
@@ -450,6 +451,10 @@ margin-bottom: -10px;
 .robo{
   width: 260px;
 }
+.rob{
+  width: 230px;
+  height: 280px;
+}
 @media(max-width:500px){
   .robo{
     width:220px;
@@ -474,9 +479,19 @@ margin-bottom: -10px;
   height: 600px;
   width: 500px;
 }
+.workimg1{
+  height: 450px;
+  width: 500px;
+}
+@media(max-width:500px){
+  .workimg1{
+    width: 300px;
+    height: 270px;
+  }
+}
 @media(max-width:500px){
   .workimg{
-    height: 360px;
+    height: 340px;
     width: 300px; 
   }
 }
@@ -639,7 +654,13 @@ border-radius: 20px;
   border-radius: 5px;
   width: 200px;
   height: 30px;
-  border: 1px solid rgb(0, 0, 0);
+  border: 1px solid #b3bbc1;
+  box-shadow: none;
+  line-height: 45px;
+  padding: 0 34px 0 12px;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
 }
 .box:focus{
   outline: none;

@@ -1,5 +1,9 @@
 import React, { Component } from 'react';
 class About extends Component {
+
+    contactus() {
+        this.props.history.push('/contactus')
+    }
     render() {
         return (
             <div>
@@ -48,13 +52,14 @@ class About extends Component {
                 <center>
                     <div className='designcode'>
                         <br /><br /><br />
-                        <span className='dc'>Code</span>
+                        
+                        <span className='dc'>Design</span>
                         <span>
                             <img
                                 className='dclog'
-                                src='http://www.adhamdannaway.com/wp-content/themes/dannaway/images/pie-chart.png' />
+                                src='design.png' />
                         </span>
-                        <span className='dc1'>Design</span>
+                        <span className='dc1'>Code</span>
                         <br /><br /><br />
                     </div>
                     <div className='about'>
@@ -63,9 +68,9 @@ class About extends Component {
                             <div className='wave'>
                                 <h2 className='exceptionalquality'>GET IN TOUCH</h2><br/>
                                 <button
-                                    onClick={() => this.about()}
-                                    className='learnbtn'>Contact US
-                        </button>
+                                    onClick={() => this.contactus()}
+                                    className='learnbtn'>Contact us
+                                </button>
                             </div>
                         </section>
                     </div>

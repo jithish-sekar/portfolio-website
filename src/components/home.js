@@ -43,7 +43,7 @@ class Home extends Component {
                 <center>
                     <img
                         className='log'
-                        src='newbull.png' />
+                        src='bul (1).png' />
                     <br />
                     <h1 className='homeh'>A higher plain</h1>
                     <h2 className='homeh2'>We build brands and beautiful websites for clients who need a little help to create something truly special. We do it with love in India for clients all around the world...</h2>
