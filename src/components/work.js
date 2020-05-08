@@ -47,7 +47,7 @@ class Work extends Component {
                     <br /><br />
                     <section>
                         <div className='wave'>
-                            <h2 className='exceptionalquality'>EXCEPTIONAL QUALITY</h2><br />
+                            <h2 className='exceptionalquality'>GET IN TOUCH</h2><br />
                             <center>
                             <button
                                 onClick={() => this.contactus()}

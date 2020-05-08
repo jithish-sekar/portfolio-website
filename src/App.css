@@ -194,15 +194,19 @@ animation: animate 10s linear infinite;
  .exceptionalquality{
   text-align: center;
   font-family: 'Cormorant Garamond', serif;
-  font-size: 23px;
+  font-size: 28px;
   font-weight: 800px;
+  color: #777777;
+  margin: 0;
 }
 @media(max-width: 500px){
   .exceptionalquality{
     text-align: center;
     font-family: 'Cormorant Garamond', serif;
-    font-size: 18px;
+    font-size: 22px;
     font-weight: 600;
+    color: #777777;
+    margin: 0;
   }
 }
 .learnbtn{
