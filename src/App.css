@@ -158,6 +158,10 @@
  width:30ch;
  white-space: nowrap; 
  }
+ .image-holder a{
+   color: white;
+   text-decoration: none;
+ }
  @keyframes type {
   0%{
     width: 0ch;

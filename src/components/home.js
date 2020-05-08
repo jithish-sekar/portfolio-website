@@ -4,8 +4,8 @@ class Home extends Component {
         super(props);
         this.state = {
             images: [
-                { name: "destinys.org.in", url: "de.jpg", link:'medikare.org.in' },
-                { name: "medikare.org.in", url: "medikare.jpg" },
+                { name: "destinys.org.in", url: "de.jpg", link:'https://www.destinys.org.in/' },
+                { name: "medikare.org.in", url: "medikare.jpg",link:'https://www.medikare.org.in/' },
                 { name: "pills", url: "pill1.jpg" },
             ],
             currenImagePosition: 0
@@ -15,7 +15,9 @@ class Home extends Component {
     getImageSlider = () => {
         let slider = []
         let imageToLoad = this.state.images[this.state.currenImagePosition];
-        slider.push(<div className="image-holder">  <img src={imageToLoad.url}></img> {imageToLoad.name}</div>)
+        slider.push(<div className="image-holder"> <a href={imageToLoad.link} > <img src={imageToLoad.url}></img> {imageToLoad.name}
+            </a>
+        </div>)
         return slider;
     }
 
