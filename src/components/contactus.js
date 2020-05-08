@@ -32,7 +32,7 @@ class Contactus extends Component {
                 <center>
                     <img
                         className='log'
-                        src='newbull.png' /><br /><br /><br />
+                        src='bul (1) (1).png' /><br /><br /><br />
                     <h1 className='touch'>Get in touch</h1><br />
 
                     <form
