@@ -176,12 +176,20 @@
 }
 .wave{
 width: 100%;
-height: 143px;
+height: 142.8px;
 bottom: 0;
 left: 0;
+top: 0;
 background: url(wa.png);
 animation: animate 10s linear infinite;
 }
+@media(max-width:500px){
+  .wave{
+    width: 100%;
+    height: 143px;
+  }
+}
+
  @keyframes animate
  {
    0%{
