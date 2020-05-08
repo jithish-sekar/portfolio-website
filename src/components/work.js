@@ -26,15 +26,15 @@ class Work extends Component {
                     <br /><br />
                     <h1 className='medi'>Chill Pill</h1>
                     <p className='workp'>(Illustrator and design)</p>
-                    < center> <img className='workimg' src='pill1.jpg' /></center>
+                    < center> <img className='workimg2' src='pill1.jpg' /></center>
                     <br /><br />
                     <h1 className='medi'>xxxtentacion</h1>
                     <p className='workp'>(Illustrator  and design)</p>
-                    < center> <img className='workimg' src='xxx2.jpg' /></center>
+                    < center> <img className='workimg2' src='xxx2.jpg' /></center>
                     <br /><br />
                     <h1 className='medi'>Nairobi</h1>
                     <p className='workp'>(Illustrator  and design)</p>
-                    < center> <img className='workimg' src='nairobi23.jpg' /></center>
+                    < center> <img className='workimg2' src='nairobi23.jpg' /></center>
                     <br /><br />
                     <h1 className='medi'>Iron man & Thanos</h1>
                     <p className='workp'>(Illustrator  and design)</p>
