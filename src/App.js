@@ -11,7 +11,7 @@ const App = (Props) => {
     <div>
       <HeaderComponent history={Props.history} />
       <Main />
-      <FooterPage />
+      <FooterPage history={Props.history}  />
     </div>
 
   )

@@ -7,6 +7,7 @@ class Who extends Component {
         return (
             <div className='who'>
                 <center>
+                    <br/>
                     <span className='whoh1'>BETTER</span>
                     <span className='think'> THINKING</span><br /><br />
                     <img

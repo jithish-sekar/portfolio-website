@@ -7,7 +7,7 @@ class Work extends Component {
         return (
             <div>
                 <div className='work'>
-                    <center>
+                    <center><br/>
                         <span className='ourlife'>OUR LIFE'S</span>
                         <span className='wrk'>WORK</span><br /><br /><br />
                         <img

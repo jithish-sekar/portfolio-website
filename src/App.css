@@ -52,6 +52,7 @@
   color: aliceblue;
   font-family: 'Exo 2', sans-serif;
   font-size: 13px;
+  cursor: pointer;
 }
 .link{
   color: aliceblue;
