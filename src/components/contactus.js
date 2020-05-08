@@ -25,7 +25,7 @@ class Contactus extends Component {
             })
     }
     myclick() {
-        alert("Successfully submitted Will contact you shortly");
+        alert("Successfully submitted.Will contact you shortly");
     }
 
     
