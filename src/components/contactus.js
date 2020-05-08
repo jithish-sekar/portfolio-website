@@ -24,6 +24,12 @@ class Contactus extends Component {
                 console.log(error)
             })
     }
+    myclick() {
+        alert("Successfully submitted Will contact you shortly");
+    }
+
+    
+    
 
     render() {
         const { Name, email_id, Mobile, City } = this.state
@@ -73,12 +79,14 @@ class Contactus extends Component {
                         /><br /><br />
 
                         <button
+                            onClick={()=>this.myclick()}
                             className='learnbtn'
                             type="submit">
                             Submit
                         </button>
                         <br /><br />
                     </form><br /><br />
+
                 </center>
             </div>
         )
