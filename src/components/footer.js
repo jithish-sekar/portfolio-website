@@ -22,11 +22,11 @@ class Footerpage extends Component {
                
                     <br /> */}
                 <div className='linkfb'>
-                    <a href='' className='link'><i class="fa fa-facebook-square"></i></a>
-                    <a href='' className='link'><i class="fa fa-linkedin-square"></i></a>
-                    <a href='' className='link'><i class="fa fa-github-square"></i></a>
-                    <a href='' className='link'><i class="fa fa-behance-square"></i></a>
-                    <a href='' className='link'><i class="fa fa-twittere-square"></i></a>
+                    <a href='https://www.facebook.com/dhanush.sundararajan' className='link'><i class="fa fa-facebook-square"></i></a>
+                    <a href='https://www.linkedin.com/in/jithish-sekar-a46a95157?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bh8jOfTQUSlWqq9PhJ2Y2Wg%3D%3D' className='link'><i class="fa fa-linkedin-square"></i></a>
+                    <a href='https://www.behance.net/dhanushs1' className='link'><i class="fa fa-behance-square"></i></a>
+                    <a href='https://github.com/jithish-sekar' className='link'><i class="fa fa-github-square"></i></a>
+                    <a href='https://twitter.com/dhan619?s=08' className='link'><i class="fa fa-twittere-square"></i></a>
                 </div>
                 <span
                     onClick={() => this.home()}
