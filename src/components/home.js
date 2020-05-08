@@ -4,7 +4,7 @@ class Home extends Component {
         super(props);
         this.state = {
             images: [
-                { name: "destinys.org.in", url: "de.jpg" },
+                { name: "destinys.org.in", url: "de.jpg", link:'medikare.org.in' },
                 { name: "medikare.org.in", url: "medikare.jpg" },
                 { name: "pills", url: "pill1.jpg" },
             ],

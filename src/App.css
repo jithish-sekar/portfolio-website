@@ -28,6 +28,9 @@
 }
 .headerlogo{
   height: 80px;
+  /* animation: spin 4s linear infinite; */
+}
+@keyframes spin{
 }
   .footer{
   text-align: center;
@@ -337,8 +340,8 @@ margin-bottom: -10px;
 }
 .h1about{
   text-align: center;
-  color: #f2fcfe;
-  font-size: 30px;
+  color: #b3bbc1;
+  font-size: 20px;
   font-family: 'Raleway', sans-serif;
   margin-top: 30px;
   letter-spacing: 1px;
@@ -346,10 +349,11 @@ margin-bottom: -10px;
 @media(max-width:500px){
   .h1about{
   text-align: center;
-  color: #f2fcfe;
-  font-size: 24px;
+  color: #b3bbc1;
+  font-size: 20px;
   font-family: 'Raleway', sans-serif;
   margin-top: 30px;
+  width: 80%;
   letter-spacing: 1px;
   }
 }
@@ -493,7 +497,7 @@ margin-bottom: -10px;
   width: 500px;
 }
 .workimg1{
-  height: 370px;
+  height: 310px;
   width: 450px;
 }
 @media(max-width:500px){

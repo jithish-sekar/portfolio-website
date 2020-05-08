@@ -12,7 +12,6 @@ class About extends Component {
                         <br/>
                         <span className='high'>HIGH</span>
                         <span className='value'>values</span>
-                        {/* <h1 className='h1about'>"We collaborate with brands and agencies to create memorable experiences."</h1> */}
                         <br /><br/>
                         <img
                             className='robo'
@@ -48,6 +47,8 @@ class About extends Component {
                                 </span>
                             </div>
                         </div>
+                        <h1 className='h1about'>"We collaborate with brands and agencies to create memorable experiences."</h1>
+                        <br/>
                     </center>
                 </div>
                 <center>
