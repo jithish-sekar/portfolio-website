@@ -20,7 +20,7 @@ class Who extends Component {
                     <br />
                     <img
                         className='pic'
-                        src='jithu2.jpg' />
+                        src='jithu2 (1).jpg' />
                 </center>
                 <div className='edit'>
                     <p className='nam1'>JITHISH SEKAR</p>
