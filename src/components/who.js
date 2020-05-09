@@ -45,7 +45,7 @@ class Who extends Component {
                     <p className='nam2'>(GRAPHIC DESIGNER)</p>
                     <div className='wholink'>
                         <a href='https://www.linkedin.com/in/dhanush-s-b125491a7/' className='link'><i class="fa fa-linkedin-square"></i></a>
-                        <a href='https://www.dribbble.com/dhanush-s' className='link'>  <i class="fa fa-dribbble"></i></a>
+                        <a href='https://github.com/dhanush2206' className='link'><i class="fa fa-github-square"></i></a>
                         <a href='https://www.behance.net/dhanushs1' className='link'><i class="fa fa-behance-square"></i></a>
                         <a href='https://www.facebook.com/dhanush.sundararajan' className='link'><i class="fa fa-facebook-square"></i></a>
                         <a href='https://twitter.com/dhan619?s=08' className='link'><i class="fa fa-twitter-square"></i></a>
