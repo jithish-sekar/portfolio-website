@@ -46,7 +46,7 @@ class Footerpage extends Component {
                     onClick={()=>this.about()}
                     className='ftrp'>About</span>
                 <br />
-                <span className='copyryt'>&#169; 2020 copyright-<a href="https://studiobulls.org.in" target="_blank">studiobulls</a></span>
+                <span className='copyryt'>&#169; 2020 copyright-<a href="https://studiobulls.org.in" >studiobulls</a></span>
 
             </div>
 
