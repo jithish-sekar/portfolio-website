@@ -28,7 +28,7 @@ class HeaderComponent extends Component {
                             <span
                                 onClick={() => this.work()}
                                 className='headernavspan'
-                            >Work</span>
+                            >Proj</span>
                             <img
                                 onClick={() => this.home()}
                                 className='headerlogo'
