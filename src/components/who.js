@@ -18,7 +18,7 @@ class Who extends Component {
                     <div className='meet'>
                         <p className='team'>Meet the team!</p>
                     </div>
-                    <h1 className='strapline'></h1>
+                    <h1 className='strapline'>1</h1>
                     <br />
                     <img 
                     alt="img"

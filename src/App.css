@@ -586,6 +586,9 @@ margin-bottom: -10px;
     width: 100%;
   }
 }
+.strapline{
+  color: #1d1c1c;
+}
 .strapline:before {
   content: "";
   top: 100%;
