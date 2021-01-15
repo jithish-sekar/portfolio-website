@@ -15,7 +15,7 @@ class Home extends Component {
     getImageSlider = () => {
         let slider = []
         let imageToLoad = this.state.images[this.state.currenImagePosition];
-        slider.push(<div className="image-holder"> <a href={imageToLoad.link} > <img src={imageToLoad.url}></img> {imageToLoad.name}
+        slider.push(<div className="image-holder"> <a href={imageToLoad.link} > <img alt="img" src={imageToLoad.url}></img> {imageToLoad.name}
             </a>
         </div>)
         return slider;
@@ -45,6 +45,7 @@ class Home extends Component {
                 <center>
                     <img
                         className='log'
+                        alt="img"
                         src='bul (1) (1).png'
                         />
                     <br />

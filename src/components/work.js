@@ -10,7 +10,7 @@ class Work extends Component {
                     <center><br/>
                         <span className='ourlife'>OUR LIFE'S</span>
                         <span className='wrk'>WORK</span><br /><br /><br />
-                        <img
+                        <img alt="img"
                             className='rob'
                             src='robot.png' />
                     </center>
@@ -19,32 +19,32 @@ class Work extends Component {
                     </center>
                     <h1 className='medi'>medikare.org.in</h1>
                     <p className='workp'>(Brand and information site)</p>
-                    < center> <img className='workimg' src='medikare.jpg' /></center>
+                    < center> <img alt="img" className='workimg alt="img"' src='medikare.jpg' /></center>
                     <br/><br/>
                     <h1 className='medi'>destinys.org.in</h1>
                     <p className='workp'>(Brand and information site)</p>
-                    < center> <img className='workimg' src='de.jpg' /></center>
+                    < center> <img alt="img" className='workimg alt="img"' src='de.jpg' /></center>
                     <br /><br />
                     <h1 className='medi'>Chill Pill</h1>
                     <p className='workp'>(Illustrator and design)</p>
-                    < center> <img className='workimg2' src='pill1.jpg' /></center>
+                    < center> <img alt="img" className='workimg alt="img"2' src='pill1.jpg' /></center>
                     <br /><br />
                     <h1 className='medi'>xxxtentacion</h1>
                     <p className='workp'>(Illustrator  and design)</p>
-                    < center> <img className='workimg2' src='xxx2.jpg' /></center>
+                    < center> <img alt="img" className='workimg alt="img"2' src='xxx2.jpg' /></center>
                     <br /><br />
                     <h1 className='medi'>Nairobi</h1>
                     <p className='workp'>(Illustrator  and design)</p>
-                    < center> <img className='workimg2' src='nairobi23.jpg' /></center>
+                    < center> <img alt="img" className='workimg alt="img"2' src='nairobi23.jpg' /></center>
                     <br /><br />
                     <h1 className='medi'>Iron man & Thanos</h1>
                     <p className='workp'>(Illustrator  and design)</p>
-                    < center> <img className='workimg1' src='thanos.jpg' /></center>
+                    < center> <img alt="img" className='workimg alt="img"1' src='thanos.jpg' /></center>
                     <br /><br />
                     
                     <h1 className='medi'>Ford vs Ferrari</h1>
                     <p className='workp'>(Illustrator and design)</p>
-                    < center> <img className='workimg1' src='fvf.jpg' /></center>
+                    < center> <img alt="img" className='workimg alt="img"1' src='fvf.jpg' /></center>
                     <br /><br />
                     <section>
                         <div className='wave'>

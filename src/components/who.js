@@ -10,8 +10,9 @@ class Who extends Component {
                     <br/>
                     <span className='whoh1'>BETTER</span>
                     <span className='think'> THINKING</span><br /><br />
-                    <img
+                    <img 
                         className='robo'
+                        alt="img"
                         src='ro.png' /><br /><br />
                     <h1 className='whohh'>We're developers, designers, strategists, and awkward dancers.</h1>
                     <div className='meet'>
@@ -19,7 +20,8 @@ class Who extends Component {
                     </div>
                     <h1 className='strapline'></h1>
                     <br />
-                    <img
+                    <img 
+                    alt="img"
                         className='pic'
                         src='jithu2 (1).jpg' />
                 </center>
@@ -36,7 +38,8 @@ class Who extends Component {
                 </div>
                 <br /><br />
                 <center>
-                    <img
+                    <img 
+                    alt="img"
                         className='pic'
                         src='dh.jpg' />
                 </center>

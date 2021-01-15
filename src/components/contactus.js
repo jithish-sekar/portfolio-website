@@ -37,6 +37,7 @@ class Contactus extends Component {
             <div className='home'>
                 <center>
                     <img
+                    alt="img"
                         className='log'
                         src='bul (1) (1).png' /><br /><br /><br />
                     <h1 className='touch'>Get in touch</h1><br />

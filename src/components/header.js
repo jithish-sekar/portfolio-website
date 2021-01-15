@@ -32,6 +32,7 @@ class HeaderComponent extends Component {
                             <img
                                 onClick={() => this.home()}
                                 className='headerlogo'
+                                alt="img"
                                 src='logo1.png' />
                             <span
                                 onClick={() => this.who()}

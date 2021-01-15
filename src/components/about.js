@@ -15,6 +15,7 @@ class About extends Component {
                         <br /><br/>
                         <img
                             className='robo'
+                            alt="img"
                             src="newrobo.png" />
                         <div className='strategies'>
                             <div className="p-30px">
@@ -59,6 +60,7 @@ class About extends Component {
                         <span>
                             <img
                                 className='dclog'
+                                alt="img"
                                 src='design.png' />
                         </span>
                         <span className='dc1'>Code</span>

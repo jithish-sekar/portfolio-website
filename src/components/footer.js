@@ -18,6 +18,7 @@ class Footerpage extends Component {
             <div className='footer'>
                 {/* <img
                     className='bgimgfooter1'
+                    alt="img"
                     src='logo3.png' />
                
                     <br /> */}
