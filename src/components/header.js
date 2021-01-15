@@ -36,7 +36,7 @@ class HeaderComponent extends Component {
                             <span
                                 onClick={() => this.who()}
                                 className='headernavspan'
-                            >Who</span>
+                            >Who?</span>
                             <span
                                 onClick={() => this.about()}
                                 className='headernavspan'
